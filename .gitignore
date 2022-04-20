@@ -105,6 +105,3 @@ dist
 
 # IDE Settings
 .idea
-
-# Build directory
-build/
