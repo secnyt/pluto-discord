@@ -1,0 +1,27 @@
+{
+  "name": "pluto-discord",
+  "version": "1.0.0",
+  "description": "A framework for developing Discord bots.",
+  "main": "src/pluto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secnyt/pluto-discord.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "pluto"
+  ],
+  "author": "secnyt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/secnyt/pluto-discord/issues"
+  },
+  "homepage": "https://github.com/secnyt/pluto-discord#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
