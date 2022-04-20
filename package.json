@@ -1,8 +1,8 @@
 {
   "name": "pluto-discord",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A framework for developing Discord bots.",
-  "main": "src/pluto.js",
+  "main": "build/pluto.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
